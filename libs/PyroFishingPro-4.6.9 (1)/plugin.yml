@@ -1,0 +1,15 @@
+name: PyroFishingPro
+main: me.arsmagica.PyroFishingPro
+version: 4.6.9
+author: PyroTempus
+softdepend: [Vault, WorldGuard, PlaceholderAPI, Multiverse]
+depend: [PyroLib]
+api-version: 1.14
+commands:
+   fish:
+      description: Shows the base commands for fishing!
+      usage: /<command>     
+   fishingtournaments:
+      description: Shows commands for fishing tournaments!
+      usage: /<command>   
+      aliases: [ft, fisht, tournaments, pft] 

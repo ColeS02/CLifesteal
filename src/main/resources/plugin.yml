@@ -1,0 +1,7 @@
+name: CLifesteal
+version: '${project.version}'
+main: com.unclecole.clifesteal.CLifesteal
+api-version: 1.18
+prefix: CLifesteal
+authors: [ Cole ]
+depend: [ PyroFishingPro ]
